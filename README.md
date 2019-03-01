@@ -1,11 +1,10 @@
 # Decentralized Star Notary Project
 
-I built a CryptoStar Dapp on Ethereum that implemented all the tasks for the Blockchain Developer Nanodegree Program Project 5
-[https://classroom.udacity.com/nanodegrees/nd1309/parts/2e478a90-310b-4703-aa20-efec12eb258c/modules/f615d662-ae4c-4634-ba85-9804b3a7c159/lessons/d2f7eb7c-0368-4f3f-9288-39069990a0e3/project].
+I built a CryptoStar Dapp on Ethereum that implemented all the tasks for the [Blockchain Developer Nanodegree Program Project 5](https://classroom.udacity.com/nanodegrees/nd1309/parts/2e478a90-310b-4703-aa20-efec12eb258c/modules/f615d662-ae4c-4634-ba85-9804b3a7c159/lessons/d2f7eb7c-0368-4f3f-9288-39069990a0e3/project).
 
 ## Project Rubric 
 
-The project implementation is according to the Project Rubric [https://review.udacity.com/#!/rubrics/2297/view].
+The project implementation is according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2297/view).
 
 ## Project Specification
 
@@ -25,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Installing Node and NPM is pretty straightforward using the installer package available from the (Node.js® web site)[https://nodejs.org/en/].
+Installing Node and NPM is pretty straightforward using the installer package available from the [Node.js® web site](https://nodejs.org/en/).
 
 Install Truffle: ```npm install -g truffle```
 
